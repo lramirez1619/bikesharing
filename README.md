@@ -1,5 +1,5 @@
 ### Bikesharing
-Tableau
+Tableau [link to dashboard](https://public.tableau.com/app/profile/laurice.ramirez.jones/viz/AugustCitiBikeChallenge/Story1?publish=yes)
 
 ## Overview of the analysis:
 For this analysis, Pandas will be utilized to transform the "tripduration" column from an integer to a datetime data type. With this conversion, the following visualizations will be created to:
